@@ -50,4 +50,4 @@ Readme’ye şu şekilde ekleyebilirsin:
 ![Screenshot_20251210_184142](https://github.com/user-attachments/assets/eefc4649-5092-422b-85c2-46b711ae3c98)
 
 
-İstersen 3–4 tane örnek mockup görsel hazırlayıp koyabilirim.
+
